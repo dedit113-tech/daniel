@@ -1,5 +1,3 @@
-# daniel
-
 <div align="center">
 
 # Привет, я Daniel! 👋
