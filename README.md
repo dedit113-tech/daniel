@@ -36,7 +36,6 @@
 
 ### 🐍 GitHub Streak & Snake
 <div align="center">
-  Generates a snake game from a github user contributions graph
 
 <picture>
   <source
