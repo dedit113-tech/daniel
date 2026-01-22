@@ -3,7 +3,7 @@
 # Привет, я Daniel! 👋
 ### Frontend Developer | HTML • CSS • JavaScript
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Daniel's%20Dev%20Space&fontSize=70&animation=fadeIn)
+![Header](https://repository-images.githubusercontent.com/338803879/bb698200-6efc-11eb-910f-250cda75b482)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Building+web+interfaces;Coding+in+JavaScript;Learning+new+frameworks)](https://git.io/typing-svg)
 
