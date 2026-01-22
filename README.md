@@ -36,25 +36,7 @@
 
 ### 🐍 GitHub Streak & Snake
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel&theme=vision-friendly-dark" alt="streak stats" />
-  
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/daniel/daniel/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
-### 📫 Как со мной связаться:
-<div align="center">
-
-[![Telegram](@DanielHTNL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
-
-</div>
-
-
-Generates a snake game from a github user contributions graph
+  Generates a snake game from a github user contributions graph
 
 <picture>
   <source
@@ -70,4 +52,15 @@ Generates a snake game from a github user contributions graph
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+### 📫 Как со мной связаться:
+<div align="center">
+
+[![Telegram](@DanielHTNL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
+
+</div>
+
 
